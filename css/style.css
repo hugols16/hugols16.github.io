@@ -158,14 +158,14 @@ ul, ol{
 }*/
 
 .home-jumbotron {
-  /*background: url('http://i60.tinypic.com/167m1w8.jpg') ;*/
-  /*background-size: cover;*/
-  /*background-position: center;*/
-  /*background-attachment: fixed;*/
-  /*background-repeat: no-repeat;*/
+  background: url('http://i60.tinypic.com/167m1w8.jpg') ;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
   color: #cfcfcf;
-  /*height: 100%;*/
-  /*width: 100%;*/
+  height: 100%;
+  width: 100%;
 }
 
 #profile-home .overlay {
